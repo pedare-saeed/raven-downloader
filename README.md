@@ -94,7 +94,7 @@
 | سیستم عامل | نرم‌افزار | لینک دانلود |
 |------------|-----------|-------------|
 | **Windows** | 7-Zip | [7-zip.org](https://7-zip.org) |
-| **Android** | ZArchiver | کافه‌بازار / گوگل پلی |
+| **Android** | ZArchiver | کافه‌بازار / مایکت  |
 | **Linux** | p7zip | `sudo apt install p7zip-full` |
 | **macOS** | Keka | [keka.io](https://keka.io) |
 
